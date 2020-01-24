@@ -1,9 +1,7 @@
 # Project1 - Analysis of Incarceration Rates (Atlanta)
 
 ## Team Members
-  Amanda Gordon
-  Sadia Sleweon
-  Octavia Isom
+  Amanda Gordon, Sadia Sleweon, Octavia Isom
   
 ## Project Description/Outline
   Analyze association between incarceration rates and school rating. Incorporate other applicable demographic data points
@@ -14,7 +12,8 @@ What is association between incarceration rates and school ratings in Atlanta, G
 
 ## Dataset to Be Used
   School Rating: https://www.niche.com/about/data#dataSources
-  
+  BJS API: https://www.bjs.gov/developer/ncvs/developers.cfm
+  BJS Datasets: https://www.bjs.gov/index.cfm?ty=dca
 
 ## Rough Breakdown of Tasks
   Octavia 
