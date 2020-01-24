@@ -17,8 +17,7 @@ What is association between incarceration rates and school ratings in Atlanta, G
 
 ## Rough Breakdown of Tasks
   Octavia 
-   -Discuss the implications of your findings. This is where you get to have an open-ended discussion about what your findings "mean".
-   - Describe the data exploration and cleanup process (accompanied by your Jupyter Notebook)
+   -Discuss the implications of your findings. This is where you get to have an open-ended discussion about what your findings  "mean". Describe the data exploration and cleanup process (accompanied by your Jupyter Notebook)
   
   Amanda
    -Describe the core message or hypothesis for your project.
