@@ -1,4 +1,4 @@
-# Project1 - Analysis of Incarceration Rate (Atlanta)
+# Project1 - Analysis of Incarceration Rates (Atlanta)
 
 ## Team Members
   Amanda Gordon
@@ -6,7 +6,7 @@
   Octavia Isom
   
 ## Project Description/Outline
-  Analyze association between incarceration rating and school rating. Incorporate other applicable demographic data points
+  Analyze association between incarceration rates and school rating. Incorporate other applicable demographic data points
 
 ## Research Question to Answer
 
