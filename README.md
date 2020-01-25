@@ -18,7 +18,7 @@
 
 ## Dataset to Be Used
   Crime/Incarceration: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
-  QOL: https://developers.teleport.org/api/getting_started/#life_quality_ua
+  <br/>QOL: https://developers.teleport.org/api/getting_started/#life_quality_ua
 
 ## Rough Breakdown of Tasks
   Octavia 
