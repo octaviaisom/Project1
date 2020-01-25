@@ -1,4 +1,4 @@
-# Comparing the Cost of Living (COL) to Crime/Incarceration Rate (2001 - 2016)
+# Cost of Living (COL) vs. Crime/Incarceration Rate (2001 - 2016)
 
 ## Team Members
   Amanda Gordon<br/>
@@ -18,7 +18,7 @@
 
 ## Dataset to Be Used
   Crime/Incarceration: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
-  Cost of Living
+  Cost of Living: 
 
 ## Rough Breakdown of Tasks
   Octavia 
