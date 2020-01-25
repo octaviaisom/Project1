@@ -1,19 +1,24 @@
-# Project1 - Analysis of Incarceration Rates (Atlanta)
+# Comparing the Cost of Living (COL) to Crime/Incarceration Rate (2001 - 2016)
 
 ## Team Members
-  Amanda Gordon, Sadia Sleweon, Octavia Isom
+  Amanda Gordon<br/>
+  Sadia Sleweon<br/>
+  Octavia Isom<br/>
   
 ## Project Description/Outline
-  Analyze association between incarceration rates and school rating. Incorporate other applicable demographic data points
+  Analyze the correlation between the cost of living and crime rate in the United States. Consider state and region-level data.
 
 ## Research Question to Answer
 
-What is association between incarceration rates and school ratings in Atlanta, Georgia? 
+1. Does higher COL result in lower crime rates?
+
+2. Is there any statistical coorelation between the %change in COL and the %change in crime/incarceration
+
+3.
 
 ## Dataset to Be Used
-  School Rating: https://www.niche.com/about/data#dataSources
-  BJS API: https://www.bjs.gov/developer/ncvs/developers.cfm
-  BJS Datasets: https://www.bjs.gov/index.cfm?ty=dca
+  Crime/Incarceration: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
+  Cost of Living
 
 ## Rough Breakdown of Tasks
   Octavia 
