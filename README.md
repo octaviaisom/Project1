@@ -1,4 +1,4 @@
-# Cost of Living (COL) vs. Crime/Incarceration Rate (2001 - 2016)
+# Quality of Life (QOL) vs. Crime/Incarceration Rate
 
 ## Team Members
   Amanda Gordon<br/>
@@ -6,19 +6,19 @@
   Octavia Isom<br/>
   
 ## Project Description/Outline
-  Analyze the correlation between the cost of living and crime rate in the United States. Consider state and region-level data.
+  Analyze the correlation between the QOL and crime rate in the United States. Consider state and region-level data.
 
 ## Research Question to Answer
 
-1. Does higher COL result in lower crime rates?
+1. Does higher QOL result in lower crime rates?
 
-2. Is there any statistical coorelation between the %change in COL and the %change in crime/incarceration
+2. Is there any statistical coorelation between the %change in QOL and the %change in crime/incarceration
 
 3.
 
 ## Dataset to Be Used
   Crime/Incarceration: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
-  Cost of Living: 
+  QOL: https://developers.teleport.org/api/getting_started/#life_quality_ua
 
 ## Rough Breakdown of Tasks
   Octavia 
