@@ -6,19 +6,19 @@
   Octavia Isom<br/>
   
 ## Project Description/Outline
-  Analyze the correlation between the QOL and crime rate in the United States. Consider state and region-level data.
+  Analyze the correlation between the QOL and crime rate
 
 ## Research Question to Answer
 
-1. Does higher QOL result in lower crime rates?
+1. Which areas have the highest/lowest incarceration rates
 
-2. Is there any statistical coorelation between the %change in QOL and the %change in crime/incarceration
+2. Does (1) education, (2) health care, and (3) enviornment quality have any influence on the frequency of violent crimes
 
-3.
+3. How does the overall QOL compare to the incarceration rate
 
 ## Dataset to Be Used
-  Crime/Incarceration: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
-  <br/>QOL: https://developers.teleport.org/api/getting_started/#life_quality_ua
+  Crime/Incarceration Dataset: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
+  <br/>QOL API: https://developers.teleport.org/api/getting_started/#life_quality_ua
 
 ## Rough Breakdown of Tasks
   Octavia 
