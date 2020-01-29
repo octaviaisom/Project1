@@ -12,7 +12,7 @@
 
 1. Which areas have the highest/lowest incarceration rates
 
-2. Does (1) education, (2) health care, and (3) enviornment quality have any influence on the frequency of violent crimes
+2. Does (1) education, (2) employment, and (3) enviornment quality have any influence on the frequency of violent crimes
 
 3. How does the overall QOL compare to the incarceration rate
 
