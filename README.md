@@ -18,7 +18,7 @@
 
 ## Dataset to Be Used
   Crime/Incarceration Dataset: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
-  <br/>QOL API: https://developers.teleport.org/api/getting_started/#life_quality_ua
+  <br/>QOL metrics (via Census API): https://www.census.gov/data/developers/data-sets/acs-5year.html
 
 ## Rough Breakdown of Tasks
   Octavia 
