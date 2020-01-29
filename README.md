@@ -1,19 +1,24 @@
-# Project1 - Analysis of Incarceration Rates (Atlanta)
+# Quality of Life (QOL) vs. Crime/Incarceration Rate
 
 ## Team Members
-  Amanda Gordon, Sadia Sleweon, Octavia Isom
+  Amanda Gordon<br/>
+  Sadia Sleweon<br/>
+  Octavia Isom<br/>
   
 ## Project Description/Outline
-  Analyze association between incarceration rates and school rating. Incorporate other applicable demographic data points
+  Analyze the correlation between the QOL and crime rate
 
 ## Research Question to Answer
 
-What is association between incarceration rates and school ratings in Atlanta, Georgia? 
+1. Which areas have the highest/lowest incarceration rates
+
+2. Does (1) education, (2) health care, and (3) enviornment quality have any influence on the frequency of violent crimes
+
+3. How does the overall QOL compare to the incarceration rate
 
 ## Dataset to Be Used
-  School Rating: https://www.niche.com/about/data#dataSources
-  BJS API: https://www.bjs.gov/developer/ncvs/developers.cfm
-  BJS Datasets: https://www.bjs.gov/index.cfm?ty=dca
+  Crime/Incarceration Dataset: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
+  <br/>QOL API: https://developers.teleport.org/api/getting_started/#life_quality_ua
 
 ## Rough Breakdown of Tasks
   Octavia 
