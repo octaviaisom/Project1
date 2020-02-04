@@ -10,11 +10,9 @@
 
 ## Research Question to Answer
 
-1. Which areas have the highest/lowest incarceration rates
-
-2. Does (1) education, (2) employment, and (3) enviornment quality have any influence on the frequency of violent crimes
-
-3. How does the overall QOL compare to the incarceration rate
+1. How do incarceration rates compare across regions with varying population densities?
+2. Does poverty and/or labor have any impact on crime rates in a given state?
+3. Does education have any impact on crime rates in a given state?
 
 ## Dataset to Be Used
   Crime/Incarceration Dataset: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
