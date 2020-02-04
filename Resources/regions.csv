@@ -1,51 +1,51 @@
-State,Region,Sub Region
-Alabama,South,East South Central
-Alaska,West,Pacific
-Arizona,West,Mountain
-Arkansas,South,West South Central
-California,West,Pacific
-Colorado,West,Mountain
-Connecticut,Northeast,New England
-Delaware,South,South Atlantic
-Florida,South,South Atlantic
-Georgia,South,South Atlantic
-Hawaii,West,Pacific
-Idaho,West,Mountain
-Indiana,Midwest,East North Central
-Illinois,Midwest,East North Central
-Iowa,Midwest,West North Central
-Kansas,Midwest,West North Central
-Kentucky,South,East South Central
-Louisiana,South,West South Central
-Maine,Northeast,New England
-Maryland,South,South Atlantic
-Massachusetts,Northeast,New England
-Michigan,Midwest,East North Central
-Minnesota,Midwest,West North Central
-Mississippi,South,East South Central
-Missouri,Midwest,West North Central
-Montana,West,Mountain
-Nebraska,Midwest,West North Central
-Nevada,West,Mountain
-New Hampshire,Northeast,New England
-New Jersey,Northeast,Mid Atlantic
-New Mexico,West,Mountain
-New York,Northeast,Mid Atlantic
-North Carolina,South,South Atlantic
-North Dakota,Midwest,West North Central
-Ohio,Midwest,East North Central
-Oklahoma,South,West South Central
-Oregon,West,Pacific
-Pennsylvania,Northeast,Mid Atlantic
-Rhode Island,Northeast,New England
-South Carolina,South,South Atlantic
-South Dakota,Midwest,West North Central
-Tennessee,South,East South Central
-Texas,South,West South Central
-Utah,West,Mountain
-Vermont,Northeast,New England
-Virginia,South,South Atlantic
-Washington,West,Pacific
-West Virginia,South,South Atlantic
-Wisconsin,Midwest,East North Central
-Wyoming,West,Mountain
+State,Region,Sub Region,Size
+Alabama,South,East South Central,50645
+Alaska,West,Pacific,570641
+Arizona,West,Mountain,113594
+Arkansas,South,West South Central,52035
+California,West,Pacific,155779
+Colorado,West,Mountain,103642
+Connecticut,Northeast,New England,4842
+Delaware,South,South Atlantic,1949
+Florida,South,South Atlantic,53625
+Georgia,South,South Atlantic,57513
+Hawaii,West,Pacific,6423
+Idaho,West,Mountain,82643
+Indiana,Midwest,East North Central,35826
+Illinois,Midwest,East North Central,55519
+Iowa,Midwest,West North Central,55857
+Kansas,Midwest,West North Central,81759
+Kentucky,South,East South Central,39486
+Louisiana,South,West South Central,43204
+Maine,Northeast,New England,30843
+Maryland,South,South Atlantic,9707
+Massachusetts,Northeast,New England,7800
+Michigan,Midwest,East North Central,56539
+Minnesota,Midwest,West North Central,79627
+Mississippi,South,East South Central,46923
+Missouri,Midwest,West North Central,68742
+Montana,West,Mountain,145546
+Nebraska,Midwest,West North Central,76824
+Nevada,West,Mountain,109781
+New Hampshire,Northeast,New England,8953
+New Jersey,Northeast,Mid Atlantic,7354
+New Mexico,West,Mountain,121298
+New York,Northeast,Mid Atlantic,47126
+North Carolina,South,South Atlantic,48618
+North Dakota,Midwest,West North Central,69001
+Ohio,Midwest,East North Central,40861
+Oklahoma,South,West South Central,68595
+Oregon,West,Pacific,95988
+Pennsylvania,Northeast,Mid Atlantic,44743
+Rhode Island,Northeast,New England,1034
+South Carolina,South,South Atlantic,30061
+South Dakota,Midwest,West North Central,75811
+Tennessee,South,East South Central,41235
+Texas,South,West South Central,261232
+Utah,West,Mountain,82170
+Vermont,Northeast,New England,9217
+Virginia,South,South Atlantic,39490
+Washington,West,Pacific,66456
+West Virginia,South,South Atlantic,24038
+Wisconsin,Midwest,East North Central,54158
+Wyoming,West,Mountain,97093
